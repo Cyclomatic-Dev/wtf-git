@@ -7,4 +7,4 @@ tags: member
 author: Alice & Bob
 ---
 
-Thanks for coming to Sudo!!
+Thanks for coming to Sudo!!!
